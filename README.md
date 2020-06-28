@@ -1,0 +1,2 @@
+# Tindog
+Responsive website template
